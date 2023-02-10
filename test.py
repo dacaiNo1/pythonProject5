@@ -8,9 +8,7 @@ import pandas as pd
 
 
 
-# Insert the Anaplan account email being used
-# username = 'hshan@lionpointgroup.com'
-# password = 'Dacai@2315syh'
+
 #
 
 def get_actions_ids(username,password, wGuid, mGuid):
